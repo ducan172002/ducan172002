@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Ducan</h1>
-<h3 align="center">Desire to become a back-end developer</h3>
+<h2 align="left">Hi 👋, I'm Ducan</h1>
+<h3 align="left">Desire to become a back-end developer</h3>
 
 - 🌱 I’m currently learning at HCMUS, VNU-HCM and 🧑‍🎓 3rd year student
 - 📖 To become a back-end developer I am currently investing in back-end expertise
