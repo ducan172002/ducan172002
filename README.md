@@ -2,7 +2,7 @@
 <h3 align="left">Desire to become a software engineer</h3>
 
 - 🌱 I’m currently learning at HCMUS, VNU-HCM and 🧑‍🎓 3rd year student
-- 📖 To become a back-end developer I am currently investing in back-end expertise
+- 📖 To become a software engineer I am currently investing in back-end expertise
 - 🧑‍💻 Every week, I practice logical thinking and code in leetcode
 - 🏋️ I like gym, ⚽ football and 🎻 listen to music 
 
